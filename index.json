@@ -1,0 +1,79 @@
+{
+  "packs": [
+    {
+      "name": "Vibrante",
+      "author": "Lucas",
+      "desc": "Cores mais vivas e fortes.",
+      "blocks": {
+        "0": "packs/vibrante/0.png",
+        "1": "packs/vibrante/1.png",
+        "2": "packs/vibrante/2.png",
+        "4": "packs/vibrante/4.png",
+        "5": "packs/vibrante/5.png",
+        "6": "packs/vibrante/6.png",
+        "7": "packs/vibrante/7.png",
+        "8": "packs/vibrante/8.png",
+        "9": "packs/vibrante/9.png",
+        "11": "packs/vibrante/11.png",
+        "17": "packs/vibrante/17.png",
+        "23": "packs/vibrante/23.png",
+        "28": "packs/vibrante/28.png",
+        "29": "packs/vibrante/29.png",
+        "30": "packs/vibrante/30.png",
+        "31": "packs/vibrante/31.png",
+        "32": "packs/vibrante/32.png",
+        "33": "packs/vibrante/33.png"
+      }
+    },
+    {
+      "name": "Noite",
+      "author": "Lucas",
+      "desc": "Tons escuros, bom para cavernas.",
+      "blocks": {
+        "0": "packs/noite/0.png",
+        "1": "packs/noite/1.png",
+        "2": "packs/noite/2.png",
+        "4": "packs/noite/4.png",
+        "5": "packs/noite/5.png",
+        "6": "packs/noite/6.png",
+        "7": "packs/noite/7.png",
+        "8": "packs/noite/8.png",
+        "9": "packs/noite/9.png",
+        "11": "packs/noite/11.png",
+        "17": "packs/noite/17.png",
+        "23": "packs/noite/23.png",
+        "28": "packs/noite/28.png",
+        "29": "packs/noite/29.png",
+        "30": "packs/noite/30.png",
+        "31": "packs/noite/31.png",
+        "32": "packs/noite/32.png",
+        "33": "packs/noite/33.png"
+      }
+    },
+    {
+      "name": "Pastel",
+      "author": "Lucas",
+      "desc": "Cores suaves e claras.",
+      "blocks": {
+        "0": "packs/pastel/0.png",
+        "1": "packs/pastel/1.png",
+        "2": "packs/pastel/2.png",
+        "4": "packs/pastel/4.png",
+        "5": "packs/pastel/5.png",
+        "6": "packs/pastel/6.png",
+        "7": "packs/pastel/7.png",
+        "8": "packs/pastel/8.png",
+        "9": "packs/pastel/9.png",
+        "11": "packs/pastel/11.png",
+        "17": "packs/pastel/17.png",
+        "23": "packs/pastel/23.png",
+        "28": "packs/pastel/28.png",
+        "29": "packs/pastel/29.png",
+        "30": "packs/pastel/30.png",
+        "31": "packs/pastel/31.png",
+        "32": "packs/pastel/32.png",
+        "33": "packs/pastel/33.png"
+      }
+    }
+  ]
+}
